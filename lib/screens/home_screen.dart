@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
           )
         ],
         title: const Center(
-          child: Text('Peliculas en cine'),
+          child: Text('Nuestro menu'),
         ),
       ),
       body: Column(
