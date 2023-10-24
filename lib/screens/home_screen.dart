@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:cine/providers/movies_provider.dart';
-import 'package:cine/widgets/widgets.dart';
+import 'package:coctel/providers/movies_provider.dart';
+import 'package:coctel/widgets/widgets.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatelessWidget {
